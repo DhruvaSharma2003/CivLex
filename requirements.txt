@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+sentence-transformers
+numpy
+google-genai
+reportlab
+faiss-cpu; platform_system!="Windows"
+regex
